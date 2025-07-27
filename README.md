@@ -1,6 +1,7 @@
 # BookFlix (Flutter APP)
 
-BookFlix is a modern, Netflix-inspired Flutter mobile application designed exclusively for book lovers. Browse, search, and discover books by topic, genre, or author, and access concise information about each title.
+BookFlix is a modern, Netflix-inspired Flutter mobile application designed exclusively for book lovers. 
+Browse, search, and discover books by topic, genre, or author, and access concise information about each title.
 
 ## Table of Contents
 
