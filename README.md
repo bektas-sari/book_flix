@@ -83,11 +83,14 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 👤 Developer
+## 👨‍💻 Developer
 
-**Bektas Sari**<br>
-Email: [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)<br>
-GitHub: [https://github.com/bektas-sari](https://github.com/bektas-sari)<br>
-LinkedIn: [https://www.linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)<br>
-ResearchGate: [https://www.researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)<br>
-Academia: [https://independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
+**Bektaş Sarı**
+PhD in Advertising, AI + Creativity researcher
+Flutter Developer & Software Educator
+
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
