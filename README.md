@@ -13,7 +13,7 @@ Browse, search, and discover books by topic, genre, or author, and access concis
 * [Theming & Customization](#theming--customization)
 * [Contributing](#contributing)
 * [License](#license)
-* [👤 Developer](#developer)
+* [ Developer](#developer)
 
 ## Features
 
